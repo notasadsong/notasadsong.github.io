@@ -1,8 +1,8 @@
 ---
 title: Face-changing Test
 date: 2024-11-27
-categories: [Notes, 知识储备/DeepLearning]
-tags: [PDF, 学习笔记, DeepLearning, face swap]
+categories: [知识储备, DeepLearning]
+tags: [PDF DeepLearning, face swap]
 ---
 
 ## 📥 下载

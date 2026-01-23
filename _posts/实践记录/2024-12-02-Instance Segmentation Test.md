@@ -1,8 +1,8 @@
 ---
 title: Instance Segmentation Test
 date: 2024-12-02
-categories: [Notes, 知识储备/DeepLearning]
-tags: [PDF, 学习笔记, DeepLearning, segmentation]
+categories: [知识储备, DeepLearning]
+tags: [PDF, DeepLearning, segmentation]
 ---
 
 ## 📥 下载
